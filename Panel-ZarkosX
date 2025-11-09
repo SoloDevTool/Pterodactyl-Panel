@@ -1,6 +1,8 @@
 #!/bin/bash
 # Made by Joy+ZarkosX
 
+clear
+
 echo "📦 Installing Pterodactyl Panel update v1.11.11 with Docker...
   ______          _            __   __
  |___  /         | |           \ \ / /
